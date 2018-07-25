@@ -1,9 +1,10 @@
 
 body{
     background-image: url("galaxy.gif"); 
+    background-size: cover;
     margin: 0px;
 }
-p{
+p {
     font: 30px 'Kirang Haerang', cursive;
     color:whitesmoke;
 }

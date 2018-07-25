@@ -1,3 +1,12 @@
+document.addEventListener('DOMContentLoaded',() => {
+let startParty = document.getElementById('gameOn')
+start.addEventListener('click', (event)=>{
+    
+    
+});
+});
+
+
 
 var myGamePiece;
 var myObstacles = [];
